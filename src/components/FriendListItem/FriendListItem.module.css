@@ -1,0 +1,14 @@
+.card {
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 8px;
+}
+.online {
+  font-size: 16px;
+  color: rgb(24, 147, 18);
+}
+
+.offline {
+  font-size: 16px;
+  color: rgb(201, 11, 39);
+}

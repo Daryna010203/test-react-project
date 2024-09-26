@@ -1,0 +1,25 @@
+.table {
+  width: 400px;
+  border-collapse: collapse;
+  font-size: 18px;
+  text-align: center;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.tableTab {
+  border: 1px solid black;
+}
+
+.tableThead {
+  background-color: #333333;
+  color: #ffffff;
+}
+
+.tableBody {
+  background-color: #a39d9d;
+}
+
+.tableBody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
